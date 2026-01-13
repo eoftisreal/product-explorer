@@ -1,0 +1,9 @@
+{
+	"id": "37cYWTt7JW03cgP",
+	"json": "{\"id\":\"37cYWTt7JW03cgP\",\"url\":\"https://www.worldofbooks.com/en-gb/products/of-mice-and-men-book-john-steinbeck-9780141023571\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/of-mice-and-men-book-john-steinbeck-9780141023571?sku=GOR001292918\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/of-mice-and-men-book-john-steinbeck-9780141023571\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:29.352Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/of-mice-and-men-book-john-steinbeck-9780141023571",
+	"url": "https://www.worldofbooks.com/en-gb/products/of-mice-and-men-book-john-steinbeck-9780141023571"
+}

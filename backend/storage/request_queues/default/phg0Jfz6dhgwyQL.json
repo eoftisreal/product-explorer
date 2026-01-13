@@ -1,0 +1,9 @@
+{
+	"id": "phg0Jfz6dhgwyQL",
+	"json": "{\"id\":\"phg0Jfz6dhgwyQL\",\"url\":\"https://www.worldofbooks.com/en-gb/products/boyfriend-book-freida-mcfadden-9781464221408\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/boyfriend-book-freida-mcfadden-9781464221408\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/boyfriend-book-freida-mcfadden-9781464221408\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:02.215Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/boyfriend-book-freida-mcfadden-9781464221408",
+	"url": "https://www.worldofbooks.com/en-gb/products/boyfriend-book-freida-mcfadden-9781464221408"
+}

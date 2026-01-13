@@ -1,0 +1,9 @@
+{
+	"id": "YzxfEpqCT7q8wj8",
+	"json": "{\"id\":\"YzxfEpqCT7q8wj8\",\"url\":\"https://www.worldofbooks.com/en-gb/products/nightshade-book-autumn-woods-9781035084005\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/nightshade-book-autumn-woods-9781035084005?sku=GOR014393616\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/nightshade-book-autumn-woods-9781035084005\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:33.413Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/nightshade-book-autumn-woods-9781035084005",
+	"url": "https://www.worldofbooks.com/en-gb/products/nightshade-book-autumn-woods-9781035084005"
+}

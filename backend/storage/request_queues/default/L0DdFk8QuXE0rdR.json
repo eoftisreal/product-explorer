@@ -1,0 +1,9 @@
+{
+	"id": "L0DdFk8QuXE0rdR",
+	"json": "{\"id\":\"L0DdFk8QuXE0rdR\",\"url\":\"https://www.worldofbooks.com/en-gb/products/no-regret-book-martina-cole-9781472249555\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/no-regret-book-martina-cole-9781472249555\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/no-regret-book-martina-cole-9781472249555\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:33.464Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/no-regret-book-martina-cole-9781472249555",
+	"url": "https://www.worldofbooks.com/en-gb/products/no-regret-book-martina-cole-9781472249555"
+}

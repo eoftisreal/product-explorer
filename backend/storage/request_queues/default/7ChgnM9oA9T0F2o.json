@@ -1,0 +1,9 @@
+{
+	"id": "7ChgnM9oA9T0F2o",
+	"json": "{\"id\":\"7ChgnM9oA9T0F2o\",\"url\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-colleen-hoover-9781471133435\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-colleen-hoover-9781471133435\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-colleen-hoover-9781471133435\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:28.838Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/hopeless-book-colleen-hoover-9781471133435",
+	"url": "https://www.worldofbooks.com/en-gb/products/hopeless-book-colleen-hoover-9781471133435"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CSelJxLIefZc37v",
+	"json": "{\"id\":\"CSelJxLIefZc37v\",\"url\":\"https://www.worldofbooks.com/en-gb/products/redeeming-6-book-chloe-walsh-9780349439303\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/redeeming-6-book-chloe-walsh-9780349439303?sku=GOR013548581\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/redeeming-6-book-chloe-walsh-9780349439303\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:13.024Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/redeeming-6-book-chloe-walsh-9780349439303",
+	"url": "https://www.worldofbooks.com/en-gb/products/redeeming-6-book-chloe-walsh-9780349439303"
+}

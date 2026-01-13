@@ -1,0 +1,9 @@
+{
+	"id": "YIpWRggOTILDYOO",
+	"json": "{\"id\":\"YIpWRggOTILDYOO\",\"url\":\"https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668?sku=GOR010250727\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:39.421Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668",
+	"url": "https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668"
+}

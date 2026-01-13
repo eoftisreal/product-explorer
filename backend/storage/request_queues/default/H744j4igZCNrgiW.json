@@ -1,0 +1,9 @@
+{
+	"id": "H744j4igZCNrgiW",
+	"json": "{\"id\":\"H744j4igZCNrgiW\",\"url\":\"https://www.worldofbooks.com/en-gb/products/secret-of-secrets-book-dan-brown-9781787634558\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/secret-of-secrets-book-dan-brown-9781787634558?sku=GOR014505674\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/secret-of-secrets-book-dan-brown-9781787634558\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:57.837Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/secret-of-secrets-book-dan-brown-9781787634558",
+	"url": "https://www.worldofbooks.com/en-gb/products/secret-of-secrets-book-dan-brown-9781787634558"
+}

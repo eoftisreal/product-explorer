@@ -1,0 +1,9 @@
+{
+	"id": "5kKXRZFo4nDdlg7",
+	"json": "{\"id\":\"5kKXRZFo4nDdlg7\",\"url\":\"https://www.worldofbooks.com/en-gb/products/end-game-book-jeffrey-archer-9780008640217\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/end-game-book-jeffrey-archer-9780008640217?sku=GOR014501800\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/end-game-book-jeffrey-archer-9780008640217\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:46.594Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/end-game-book-jeffrey-archer-9780008640217",
+	"url": "https://www.worldofbooks.com/en-gb/products/end-game-book-jeffrey-archer-9780008640217"
+}

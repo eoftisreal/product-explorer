@@ -1,0 +1,9 @@
+{
+	"id": "sKq0bO4METznOE7",
+	"json": "{\"id\":\"sKq0bO4METznOE7\",\"url\":\"https://www.worldofbooks.com/en-gb/products/perks-of-being-a-wallflower-book-stephen-chbosky-9781847394071\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/perks-of-being-a-wallflower-book-stephen-chbosky-9781847394071?sku=GOR001517593\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/perks-of-being-a-wallflower-book-stephen-chbosky-9781847394071\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:16.839Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/perks-of-being-a-wallflower-book-stephen-chbosky-9781847394071",
+	"url": "https://www.worldofbooks.com/en-gb/products/perks-of-being-a-wallflower-book-stephen-chbosky-9781847394071"
+}

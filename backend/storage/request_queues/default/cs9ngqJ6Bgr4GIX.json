@@ -1,0 +1,9 @@
+{
+	"id": "cs9ngqJ6Bgr4GIX",
+	"json": "{\"id\":\"cs9ngqJ6Bgr4GIX\",\"url\":\"https://www.worldofbooks.com/en-gb/products/little-life-book-hanya-yanagihara-9781447294832\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/little-life-book-hanya-yanagihara-9781447294832\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/little-life-book-hanya-yanagihara-9781447294832\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:53.665Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/little-life-book-hanya-yanagihara-9781447294832",
+	"url": "https://www.worldofbooks.com/en-gb/products/little-life-book-hanya-yanagihara-9781447294832"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "73324WCD85hn9sf",
+	"json": "{\"id\":\"73324WCD85hn9sf\",\"url\":\"https://www.worldofbooks.com/en-gb/products/court-of-mist-and-fury-book-sarah-j-maas-9781526617163\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/court-of-mist-and-fury-book-sarah-j-maas-9781526617163?sku=GOR010951922\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/court-of-mist-and-fury-book-sarah-j-maas-9781526617163\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:53.823Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/court-of-mist-and-fury-book-sarah-j-maas-9781526617163",
+	"url": "https://www.worldofbooks.com/en-gb/products/court-of-mist-and-fury-book-sarah-j-maas-9781526617163"
+}

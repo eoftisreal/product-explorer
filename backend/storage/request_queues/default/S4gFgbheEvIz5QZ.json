@@ -1,0 +1,9 @@
+{
+	"id": "S4gFgbheEvIz5QZ",
+	"json": "{\"id\":\"S4gFgbheEvIz5QZ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/gingerbread-bakery-book-laurie-gilmore-9780008728090\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/gingerbread-bakery-book-laurie-gilmore-9780008728090\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/gingerbread-bakery-book-laurie-gilmore-9780008728090\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:11.984Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/gingerbread-bakery-book-laurie-gilmore-9780008728090",
+	"url": "https://www.worldofbooks.com/en-gb/products/gingerbread-bakery-book-laurie-gilmore-9780008728090"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TfZaY0M6ToaD02S",
+	"json": "{\"id\":\"TfZaY0M6ToaD02S\",\"url\":\"https://www.worldofbooks.com/en-gb/products/love-untold-book-ruth-jones-9781804991015\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/love-untold-book-ruth-jones-9781804991015?sku=GOR013163054\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/love-untold-book-ruth-jones-9781804991015\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:37.565Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/love-untold-book-ruth-jones-9781804991015",
+	"url": "https://www.worldofbooks.com/en-gb/products/love-untold-book-ruth-jones-9781804991015"
+}

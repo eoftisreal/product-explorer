@@ -1,0 +1,9 @@
+{
+	"id": "cFDQwZ6aHAxcCq7",
+	"json": "{\"id\":\"cFDQwZ6aHAxcCq7\",\"url\":\"https://www.worldofbooks.com/en-gb/products/winter-garden-book-kristin-hannah-9781529089578\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/winter-garden-book-kristin-hannah-9781529089578\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/winter-garden-book-kristin-hannah-9781529089578\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:03.554Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/winter-garden-book-kristin-hannah-9781529089578",
+	"url": "https://www.worldofbooks.com/en-gb/products/winter-garden-book-kristin-hannah-9781529089578"
+}

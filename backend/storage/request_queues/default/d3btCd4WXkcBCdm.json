@@ -1,0 +1,9 @@
+{
+	"id": "d3btCd4WXkcBCdm",
+	"json": "{\"id\":\"d3btCd4WXkcBCdm\",\"url\":\"https://www.worldofbooks.com/en-gb/products/ask-for-andrea-book-noelle-w-ihli-9781035079971\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/ask-for-andrea-book-noelle-w-ihli-9781035079971\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/ask-for-andrea-book-noelle-w-ihli-9781035079971\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:40.883Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/ask-for-andrea-book-noelle-w-ihli-9781035079971",
+	"url": "https://www.worldofbooks.com/en-gb/products/ask-for-andrea-book-noelle-w-ihli-9781035079971"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kP3efnGeZ7K2U4q",
+	"json": "{\"id\":\"kP3efnGeZ7K2U4q\",\"url\":\"https://www.worldofbooks.com/en-gb/products/home-front-book-kristin-hannah-9781035008193\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/home-front-book-kristin-hannah-9781035008193?sku=GOR012825568\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/home-front-book-kristin-hannah-9781035008193\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:41.677Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/home-front-book-kristin-hannah-9781035008193",
+	"url": "https://www.worldofbooks.com/en-gb/products/home-front-book-kristin-hannah-9781035008193"
+}

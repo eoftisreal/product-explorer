@@ -1,0 +1,9 @@
+{
+	"id": "TFBLXJYmBWiC3WW",
+	"json": "{\"id\":\"TFBLXJYmBWiC3WW\",\"url\":\"https://www.worldofbooks.com/en-gb/products/orbital-book-samantha-harvey-9781529922936\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/orbital-book-samantha-harvey-9781529922936?sku=GOR013873057\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/orbital-book-samantha-harvey-9781529922936\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:44.602Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/orbital-book-samantha-harvey-9781529922936",
+	"url": "https://www.worldofbooks.com/en-gb/products/orbital-book-samantha-harvey-9781529922936"
+}

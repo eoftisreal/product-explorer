@@ -1,0 +1,9 @@
+{
+	"id": "bNWIyUTEBqoG1QS",
+	"json": "{\"id\":\"bNWIyUTEBqoG1QS\",\"url\":\"https://www.worldofbooks.com/en-gb/products/missing-family-book-tim-weaver-9781405953016\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/missing-family-book-tim-weaver-9781405953016\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/missing-family-book-tim-weaver-9781405953016\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:19.099Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/missing-family-book-tim-weaver-9781405953016",
+	"url": "https://www.worldofbooks.com/en-gb/products/missing-family-book-tim-weaver-9781405953016"
+}

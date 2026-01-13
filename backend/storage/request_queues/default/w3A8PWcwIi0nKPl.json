@@ -1,0 +1,9 @@
+{
+	"id": "w3A8PWcwIi0nKPl",
+	"json": "{\"id\":\"w3A8PWcwIi0nKPl\",\"url\":\"https://www.worldofbooks.com/en-gb/products/woman-in-black-book-susan-hill-9780099288473\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/woman-in-black-book-susan-hill-9780099288473\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/woman-in-black-book-susan-hill-9780099288473\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:03.223Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/woman-in-black-book-susan-hill-9780099288473",
+	"url": "https://www.worldofbooks.com/en-gb/products/woman-in-black-book-susan-hill-9780099288473"
+}

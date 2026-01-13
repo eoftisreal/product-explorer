@@ -1,0 +1,9 @@
+{
+	"id": "ujtj6g163XscPn6",
+	"json": "{\"id\":\"ujtj6g163XscPn6\",\"url\":\"https://www.worldofbooks.com/en-gb/products/someone-elses-shoes-book-jojo-moyes-9781405943505\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/someone-elses-shoes-book-jojo-moyes-9781405943505\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/someone-elses-shoes-book-jojo-moyes-9781405943505\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:32.731Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/someone-elses-shoes-book-jojo-moyes-9781405943505",
+	"url": "https://www.worldofbooks.com/en-gb/products/someone-elses-shoes-book-jojo-moyes-9781405943505"
+}

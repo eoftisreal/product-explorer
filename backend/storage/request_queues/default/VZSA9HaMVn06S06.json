@@ -1,0 +1,9 @@
+{
+	"id": "VZSA9HaMVn06S06",
+	"json": "{\"id\":\"VZSA9HaMVn06S06\",\"url\":\"https://www.worldofbooks.com/en-gb/products/wolf-king-book-lauren-palphreyman-9781911751052\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/wolf-king-book-lauren-palphreyman-9781911751052?sku=GOR014544058\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/wolf-king-book-lauren-palphreyman-9781911751052\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:51.164Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/wolf-king-book-lauren-palphreyman-9781911751052",
+	"url": "https://www.worldofbooks.com/en-gb/products/wolf-king-book-lauren-palphreyman-9781911751052"
+}

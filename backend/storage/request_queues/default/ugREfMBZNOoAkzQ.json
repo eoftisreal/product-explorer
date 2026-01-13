@@ -1,0 +1,9 @@
+{
+	"id": "ugREfMBZNOoAkzQ",
+	"json": "{\"id\":\"ugREfMBZNOoAkzQ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/flawless-book-elsie-silver-9780349437675\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/flawless-book-elsie-silver-9780349437675?sku=GOR013075303\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/flawless-book-elsie-silver-9780349437675\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:26.326Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/flawless-book-elsie-silver-9780349437675",
+	"url": "https://www.worldofbooks.com/en-gb/products/flawless-book-elsie-silver-9780349437675"
+}

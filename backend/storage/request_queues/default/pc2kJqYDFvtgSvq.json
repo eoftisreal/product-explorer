@@ -1,0 +1,9 @@
+{
+	"id": "pc2kJqYDFvtgSvq",
+	"json": "{\"id\":\"pc2kJqYDFvtgSvq\",\"url\":\"https://www.worldofbooks.com/en-gb/products/what-we-can-know-book-ian-mcewan-9781787335738\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/what-we-can-know-book-ian-mcewan-9781787335738\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/what-we-can-know-book-ian-mcewan-9781787335738\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:36.631Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/what-we-can-know-book-ian-mcewan-9781787335738",
+	"url": "https://www.worldofbooks.com/en-gb/products/what-we-can-know-book-ian-mcewan-9781787335738"
+}

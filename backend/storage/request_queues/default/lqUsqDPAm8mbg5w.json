@@ -1,0 +1,9 @@
+{
+	"id": "lqUsqDPAm8mbg5w",
+	"json": "{\"id\":\"lqUsqDPAm8mbg5w\",\"url\":\"https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819?sku=GOR013719624\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:29.247Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819",
+	"url": "https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819"
+}

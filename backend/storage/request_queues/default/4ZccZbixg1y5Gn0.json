@@ -1,0 +1,9 @@
+{
+	"id": "4ZccZbixg1y5Gn0",
+	"json": "{\"id\":\"4ZccZbixg1y5Gn0\",\"url\":\"https://www.worldofbooks.com/en-gb/products/atmosphere-book-taylor-jenkins-reid-9781529152975\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/atmosphere-book-taylor-jenkins-reid-9781529152975?sku=GOR014363755\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/atmosphere-book-taylor-jenkins-reid-9781529152975\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:36.876Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/atmosphere-book-taylor-jenkins-reid-9781529152975",
+	"url": "https://www.worldofbooks.com/en-gb/products/atmosphere-book-taylor-jenkins-reid-9781529152975"
+}

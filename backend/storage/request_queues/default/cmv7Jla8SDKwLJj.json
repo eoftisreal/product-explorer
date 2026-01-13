@@ -1,0 +1,9 @@
+{
+	"id": "cmv7Jla8SDKwLJj",
+	"json": "{\"id\":\"cmv7Jla8SDKwLJj\",\"url\":\"https://www.worldofbooks.com/en-gb/products/it-starts-with-us-book-colleen-hoover-9781398518209\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/it-starts-with-us-book-colleen-hoover-9781398518209?sku=GOR013163105\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/it-starts-with-us-book-colleen-hoover-9781398518209\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:49.762Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/it-starts-with-us-book-colleen-hoover-9781398518209",
+	"url": "https://www.worldofbooks.com/en-gb/products/it-starts-with-us-book-colleen-hoover-9781398518209"
+}

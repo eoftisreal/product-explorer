@@ -1,0 +1,9 @@
+{
+	"id": "b6azq9JAPYUFidD",
+	"json": "{\"id\":\"b6azq9JAPYUFidD\",\"url\":\"https://www.worldofbooks.com/en-gb/products/to-kill-a-mockingbird-book-harper-lee-9780099549482\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/to-kill-a-mockingbird-book-harper-lee-9780099549482?sku=GOR001887534\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/to-kill-a-mockingbird-book-harper-lee-9780099549482\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:28.636Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/to-kill-a-mockingbird-book-harper-lee-9780099549482",
+	"url": "https://www.worldofbooks.com/en-gb/products/to-kill-a-mockingbird-book-harper-lee-9780099549482"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "djtGVqGLwC9oEd2",
+	"json": "{\"id\":\"djtGVqGLwC9oEd2\",\"url\":\"https://www.worldofbooks.com/en-gb/products/in-too-deep-book-lee-child-9781804993675\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/in-too-deep-book-lee-child-9781804993675\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/in-too-deep-book-lee-child-9781804993675\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:18.907Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/in-too-deep-book-lee-child-9781804993675",
+	"url": "https://www.worldofbooks.com/en-gb/products/in-too-deep-book-lee-child-9781804993675"
+}

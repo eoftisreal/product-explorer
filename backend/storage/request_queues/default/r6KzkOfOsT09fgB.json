@@ -1,0 +1,9 @@
+{
+	"id": "r6KzkOfOsT09fgB",
+	"json": "{\"id\":\"r6KzkOfOsT09fgB\",\"url\":\"https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810?sku=GOR013799021\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:29.995Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810",
+	"url": "https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810"
+}

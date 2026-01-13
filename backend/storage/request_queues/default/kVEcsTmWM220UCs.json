@@ -1,0 +1,9 @@
+{
+	"id": "kVEcsTmWM220UCs",
+	"json": "{\"id\":\"kVEcsTmWM220UCs\",\"url\":\"https://www.worldofbooks.com/en-gb/products/regretting-you-book-colleen-hoover-9781542016421\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/regretting-you-book-colleen-hoover-9781542016421?sku=GOR010677084\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/regretting-you-book-colleen-hoover-9781542016421\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:50.438Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/regretting-you-book-colleen-hoover-9781542016421",
+	"url": "https://www.worldofbooks.com/en-gb/products/regretting-you-book-colleen-hoover-9781542016421"
+}

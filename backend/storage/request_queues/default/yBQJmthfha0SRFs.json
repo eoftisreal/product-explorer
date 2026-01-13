@@ -1,0 +1,9 @@
+{
+	"id": "yBQJmthfha0SRFs",
+	"json": "{\"id\":\"yBQJmthfha0SRFs\",\"url\":\"https://www.worldofbooks.com/en-gb/products/teacher-book-freida-mcfadden-9781464221378\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/teacher-book-freida-mcfadden-9781464221378\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/teacher-book-freida-mcfadden-9781464221378\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:02.873Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/teacher-book-freida-mcfadden-9781464221378",
+	"url": "https://www.worldofbooks.com/en-gb/products/teacher-book-freida-mcfadden-9781464221378"
+}

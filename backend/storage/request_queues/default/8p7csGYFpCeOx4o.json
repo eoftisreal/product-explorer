@@ -1,0 +1,9 @@
+{
+	"id": "8p7csGYFpCeOx4o",
+	"json": "{\"id\":\"8p7csGYFpCeOx4o\",\"url\":\"https://www.worldofbooks.com/en-gb/products/heartless-book-elsie-silver-9780349437682\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/heartless-book-elsie-silver-9780349437682\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/heartless-book-elsie-silver-9780349437682\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:32.380Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/heartless-book-elsie-silver-9780349437682",
+	"url": "https://www.worldofbooks.com/en-gb/products/heartless-book-elsie-silver-9780349437682"
+}

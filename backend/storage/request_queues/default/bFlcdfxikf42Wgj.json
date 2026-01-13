@@ -1,0 +1,9 @@
+{
+	"id": "bFlcdfxikf42Wgj",
+	"json": "{\"id\":\"bFlcdfxikf42Wgj\",\"url\":\"https://www.worldofbooks.com/en-gb/products/cinnamon-bun-book-store-book-laurie-gilmore-9780008641580\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/cinnamon-bun-book-store-book-laurie-gilmore-9780008641580?sku=GOR013919357\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/cinnamon-bun-book-store-book-laurie-gilmore-9780008641580\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:57.360Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/cinnamon-bun-book-store-book-laurie-gilmore-9780008641580",
+	"url": "https://www.worldofbooks.com/en-gb/products/cinnamon-bun-book-store-book-laurie-gilmore-9780008641580"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YLPj2zKjay3UCgY",
+	"json": "{\"id\":\"YLPj2zKjay3UCgY\",\"url\":\"https://www.worldofbooks.com/en-gb/products/remarkably-bright-creatures-book-shelby-van-pelt-9781526649676\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/remarkably-bright-creatures-book-shelby-van-pelt-9781526649676?sku=GOR013136332\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/remarkably-bright-creatures-book-shelby-van-pelt-9781526649676\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:05.965Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/remarkably-bright-creatures-book-shelby-van-pelt-9781526649676",
+	"url": "https://www.worldofbooks.com/en-gb/products/remarkably-bright-creatures-book-shelby-van-pelt-9781526649676"
+}

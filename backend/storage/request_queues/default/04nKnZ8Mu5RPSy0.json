@@ -1,0 +1,9 @@
+{
+	"id": "04nKnZ8Mu5RPSy0",
+	"json": "{\"id\":\"04nKnZ8Mu5RPSy0\",\"url\":\"https://www.worldofbooks.com/en-gb/products/glassmaker-book-tracy-chevalier-9780008153892\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/glassmaker-book-tracy-chevalier-9780008153892\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/glassmaker-book-tracy-chevalier-9780008153892\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:54.722Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/glassmaker-book-tracy-chevalier-9780008153892",
+	"url": "https://www.worldofbooks.com/en-gb/products/glassmaker-book-tracy-chevalier-9780008153892"
+}

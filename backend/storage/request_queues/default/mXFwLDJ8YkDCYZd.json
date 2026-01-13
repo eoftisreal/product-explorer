@@ -1,0 +1,9 @@
+{
+	"id": "mXFwLDJ8YkDCYZd",
+	"json": "{\"id\":\"mXFwLDJ8YkDCYZd\",\"url\":\"https://www.worldofbooks.com/en-gb/products/iron-flame-book-rebecca-yarros-9780349437026\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/iron-flame-book-rebecca-yarros-9780349437026\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/iron-flame-book-rebecca-yarros-9780349437026\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:09.755Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/iron-flame-book-rebecca-yarros-9780349437026",
+	"url": "https://www.worldofbooks.com/en-gb/products/iron-flame-book-rebecca-yarros-9780349437026"
+}

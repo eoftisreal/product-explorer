@@ -1,0 +1,9 @@
+{
+	"id": "qyVl6vHy4hHYr2Q",
+	"json": "{\"id\":\"qyVl6vHy4hHYr2Q\",\"url\":\"https://www.worldofbooks.com/en-gb/products/dream-count-book-chimamanda-ngozi-adichie-9780008685737\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/dream-count-book-chimamanda-ngozi-adichie-9780008685737?sku=GOR014241057\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/dream-count-book-chimamanda-ngozi-adichie-9780008685737\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:00.534Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/dream-count-book-chimamanda-ngozi-adichie-9780008685737",
+	"url": "https://www.worldofbooks.com/en-gb/products/dream-count-book-chimamanda-ngozi-adichie-9780008685737"
+}

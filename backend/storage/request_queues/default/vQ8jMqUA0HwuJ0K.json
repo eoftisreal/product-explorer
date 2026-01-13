@@ -1,0 +1,9 @@
+{
+	"id": "vQ8jMqUA0HwuJ0K",
+	"json": "{\"id\":\"vQ8jMqUA0HwuJ0K\",\"url\":\"https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697?sku=GOR011907242\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:27.836Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697",
+	"url": "https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697"
+}

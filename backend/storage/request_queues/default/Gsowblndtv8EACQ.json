@@ -1,0 +1,9 @@
+{
+	"id": "Gsowblndtv8EACQ",
+	"json": "{\"id\":\"Gsowblndtv8EACQ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780?sku=GOR013573139\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:36.016Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780",
+	"url": "https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780"
+}

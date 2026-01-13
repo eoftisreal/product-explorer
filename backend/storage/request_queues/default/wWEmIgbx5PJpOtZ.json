@@ -1,0 +1,9 @@
+{
+	"id": "wWEmIgbx5PJpOtZ",
+	"json": "{\"id\":\"wWEmIgbx5PJpOtZ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/kingdom-of-ash-book-sarah-j-maas-9781526635273\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/kingdom-of-ash-book-sarah-j-maas-9781526635273\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/kingdom-of-ash-book-sarah-j-maas-9781526635273\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:06.597Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/kingdom-of-ash-book-sarah-j-maas-9781526635273",
+	"url": "https://www.worldofbooks.com/en-gb/products/kingdom-of-ash-book-sarah-j-maas-9781526635273"
+}

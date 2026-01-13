@@ -1,0 +1,9 @@
+{
+	"id": "IaJmpNSEnmB1LWx",
+	"json": "{\"id\":\"IaJmpNSEnmB1LWx\",\"url\":\"https://www.worldofbooks.com/en-gb/products/proving-ground-book-michael-connelly-9781398719064\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/proving-ground-book-michael-connelly-9781398719064?sku=GOR014572395\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/proving-ground-book-michael-connelly-9781398719064\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:19.636Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/proving-ground-book-michael-connelly-9781398719064",
+	"url": "https://www.worldofbooks.com/en-gb/products/proving-ground-book-michael-connelly-9781398719064"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ANXujFZEmCt7WFj",
+	"json": "{\"id\":\"ANXujFZEmCt7WFj\",\"url\":\"https://www.worldofbooks.com/en-gb/products/to-cage-a-wild-bird-book-brooke-fast-9781911751007\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/to-cage-a-wild-bird-book-brooke-fast-9781911751007?sku=GOR014631280\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/to-cage-a-wild-bird-book-brooke-fast-9781911751007\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:34.604Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/to-cage-a-wild-bird-book-brooke-fast-9781911751007",
+	"url": "https://www.worldofbooks.com/en-gb/products/to-cage-a-wild-bird-book-brooke-fast-9781911751007"
+}

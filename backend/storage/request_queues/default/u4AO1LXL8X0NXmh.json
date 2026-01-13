@@ -1,0 +1,9 @@
+{
+	"id": "u4AO1LXL8X0NXmh",
+	"json": "{\"id\":\"u4AO1LXL8X0NXmh\",\"url\":\"https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678?sku=GOR013321886\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:38.540Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678",
+	"url": "https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678"
+}

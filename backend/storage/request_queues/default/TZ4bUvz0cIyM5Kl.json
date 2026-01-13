@@ -1,0 +1,9 @@
+{
+	"id": "TZ4bUvz0cIyM5Kl",
+	"json": "{\"id\":\"TZ4bUvz0cIyM5Kl\",\"url\":\"https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:41.936Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204",
+	"url": "https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204"
+}

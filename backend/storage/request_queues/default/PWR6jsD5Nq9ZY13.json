@@ -1,0 +1,9 @@
+{
+	"id": "PWR6jsD5Nq9ZY13",
+	"json": "{\"id\":\"PWR6jsD5Nq9ZY13\",\"url\":\"https://www.worldofbooks.com/en-gb/products/you-are-here-book-david-nicholls-9781444715460\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/you-are-here-book-david-nicholls-9781444715460?sku=GOR014402191\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/you-are-here-book-david-nicholls-9781444715460\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:45.501Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/you-are-here-book-david-nicholls-9781444715460",
+	"url": "https://www.worldofbooks.com/en-gb/products/you-are-here-book-david-nicholls-9781444715460"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MLnCurNsfqo1xJT",
+	"json": "{\"id\":\"MLnCurNsfqo1xJT\",\"url\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-elsie-silver-9780349437743\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-elsie-silver-9780349437743?sku=GOR013373692\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/hopeless-book-elsie-silver-9780349437743\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:44.722Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/hopeless-book-elsie-silver-9780349437743",
+	"url": "https://www.worldofbooks.com/en-gb/products/hopeless-book-elsie-silver-9780349437743"
+}

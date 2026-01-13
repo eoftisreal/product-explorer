@@ -1,0 +1,9 @@
+{
+	"id": "uVSIvAgQUmWe0O6",
+	"json": "{\"id\":\"uVSIvAgQUmWe0O6\",\"url\":\"https://www.worldofbooks.com/en-gb/products/wicked-book-gregory-maguire-9781035421060\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/wicked-book-gregory-maguire-9781035421060\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/wicked-book-gregory-maguire-9781035421060\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:24.755Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/wicked-book-gregory-maguire-9781035421060",
+	"url": "https://www.worldofbooks.com/en-gb/products/wicked-book-gregory-maguire-9781035421060"
+}

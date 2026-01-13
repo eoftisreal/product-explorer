@@ -1,0 +1,9 @@
+{
+	"id": "sRTW0W3VcDYEnL7",
+	"json": "{\"id\":\"sRTW0W3VcDYEnL7\",\"url\":\"https://www.worldofbooks.com/en-gb/products/it-ends-with-us-book-colleen-hoover-9781471156267\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/it-ends-with-us-book-colleen-hoover-9781471156267\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/it-ends-with-us-book-colleen-hoover-9781471156267\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:37.254Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/it-ends-with-us-book-colleen-hoover-9781471156267",
+	"url": "https://www.worldofbooks.com/en-gb/products/it-ends-with-us-book-colleen-hoover-9781471156267"
+}

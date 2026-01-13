@@ -1,0 +1,9 @@
+{
+	"id": "wHsRlnmt1J6XQO9",
+	"json": "{\"id\":\"wHsRlnmt1J6XQO9\",\"url\":\"https://www.worldofbooks.com/en-gb/products/bee-sting-book-paul-murray-9780241984406\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/bee-sting-book-paul-murray-9780241984406?sku=GOR013666531\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/bee-sting-book-paul-murray-9780241984406\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:46.677Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/bee-sting-book-paul-murray-9780241984406",
+	"url": "https://www.worldofbooks.com/en-gb/products/bee-sting-book-paul-murray-9780241984406"
+}

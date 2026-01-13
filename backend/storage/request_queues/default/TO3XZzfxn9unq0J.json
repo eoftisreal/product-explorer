@@ -1,0 +1,9 @@
+{
+	"id": "TO3XZzfxn9unq0J",
+	"json": "{\"id\":\"TO3XZzfxn9unq0J\",\"url\":\"https://www.worldofbooks.com/en-gb/products/wild-eyes-book-elsie-silver-9780349441641\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/wild-eyes-book-elsie-silver-9780349441641\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/wild-eyes-book-elsie-silver-9780349441641\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:44.900Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/wild-eyes-book-elsie-silver-9780349441641",
+	"url": "https://www.worldofbooks.com/en-gb/products/wild-eyes-book-elsie-silver-9780349441641"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "H53PPUn5bel6dEh",
+	"json": "{\"id\":\"H53PPUn5bel6dEh\",\"url\":\"https://www.worldofbooks.com/en-gb/products/precipice-book-robert-harris-9781804941294\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/precipice-book-robert-harris-9781804941294?sku=GOR014302598\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/precipice-book-robert-harris-9781804941294\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:01.540Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/precipice-book-robert-harris-9781804941294",
+	"url": "https://www.worldofbooks.com/en-gb/products/precipice-book-robert-harris-9781804941294"
+}

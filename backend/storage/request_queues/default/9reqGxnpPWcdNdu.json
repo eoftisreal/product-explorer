@@ -1,0 +1,9 @@
+{
+	"id": "9reqGxnpPWcdNdu",
+	"json": "{\"id\":\"9reqGxnpPWcdNdu\",\"url\":\"https://www.worldofbooks.com/en-gb/products/demon-copperhead-book-barbara-kingsolver-9780571376483\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/demon-copperhead-book-barbara-kingsolver-9780571376483\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/demon-copperhead-book-barbara-kingsolver-9780571376483\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:50.447Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/demon-copperhead-book-barbara-kingsolver-9780571376483",
+	"url": "https://www.worldofbooks.com/en-gb/products/demon-copperhead-book-barbara-kingsolver-9780571376483"
+}

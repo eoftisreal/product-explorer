@@ -1,0 +1,9 @@
+{
+	"id": "xUuxvINQSPhNZql",
+	"json": "{\"id\":\"xUuxvINQSPhNZql\",\"url\":\"https://www.worldofbooks.com/en-gb/products/perfect-marriage-book-jeneva-rose-9781398723603\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/perfect-marriage-book-jeneva-rose-9781398723603?sku=GOR014208678\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/perfect-marriage-book-jeneva-rose-9781398723603\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:18.290Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/perfect-marriage-book-jeneva-rose-9781398723603",
+	"url": "https://www.worldofbooks.com/en-gb/products/perfect-marriage-book-jeneva-rose-9781398723603"
+}

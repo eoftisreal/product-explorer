@@ -1,0 +1,9 @@
+{
+	"id": "0r0HdSzXcDUZmRG",
+	"json": "{\"id\":\"0r0HdSzXcDUZmRG\",\"url\":\"https://www.worldofbooks.com/en-gb/products/slow-horses-book-mick-herron-9781399803052\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/slow-horses-book-mick-herron-9781399803052?sku=GOR012184475\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/slow-horses-book-mick-herron-9781399803052\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:48.474Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/slow-horses-book-mick-herron-9781399803052",
+	"url": "https://www.worldofbooks.com/en-gb/products/slow-horses-book-mick-herron-9781399803052"
+}

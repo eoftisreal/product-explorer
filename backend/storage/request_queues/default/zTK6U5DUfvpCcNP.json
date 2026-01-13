@@ -1,0 +1,9 @@
+{
+	"id": "zTK6U5DUfvpCcNP",
+	"json": "{\"id\":\"zTK6U5DUfvpCcNP\",\"url\":\"https://www.worldofbooks.com/en-gb/products/beautiful-ugly-book-alice-feeney-9781035053827\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/beautiful-ugly-book-alice-feeney-9781035053827?sku=GOR014509818\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/beautiful-ugly-book-alice-feeney-9781035053827\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:32.984Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/beautiful-ugly-book-alice-feeney-9781035053827",
+	"url": "https://www.worldofbooks.com/en-gb/products/beautiful-ugly-book-alice-feeney-9781035053827"
+}

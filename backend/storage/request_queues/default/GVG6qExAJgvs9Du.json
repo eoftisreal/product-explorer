@@ -1,0 +1,9 @@
+{
+	"id": "GVG6qExAJgvs9Du",
+	"json": "{\"id\":\"GVG6qExAJgvs9Du\",\"url\":\"https://www.worldofbooks.com/en-gb/products/all-together-for-christmas-book-sarah-morgan-9780008744397\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/all-together-for-christmas-book-sarah-morgan-9780008744397?sku=GOR014577994\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/all-together-for-christmas-book-sarah-morgan-9780008744397\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:18.227Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/all-together-for-christmas-book-sarah-morgan-9780008744397",
+	"url": "https://www.worldofbooks.com/en-gb/products/all-together-for-christmas-book-sarah-morgan-9780008744397"
+}

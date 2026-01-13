@@ -1,0 +1,9 @@
+{
+	"id": "WrnEZVtAn5jGPrY",
+	"json": "{\"id\":\"WrnEZVtAn5jGPrY\",\"url\":\"https://www.worldofbooks.com/en-gb/products/story-collector-book-evie-woods-9780008706678\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/story-collector-book-evie-woods-9780008706678\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/story-collector-book-evie-woods-9780008706678\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:12.244Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/story-collector-book-evie-woods-9780008706678",
+	"url": "https://www.worldofbooks.com/en-gb/products/story-collector-book-evie-woods-9780008706678"
+}

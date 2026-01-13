@@ -1,0 +1,9 @@
+{
+	"id": "E28c1wq7iFY9noB",
+	"json": "{\"id\":\"E28c1wq7iFY9noB\",\"url\":\"https://www.worldofbooks.com/en-gb/products/couple-at-no-9-book-claire-douglas-9781405943406\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/couple-at-no-9-book-claire-douglas-9781405943406\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/couple-at-no-9-book-claire-douglas-9781405943406\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:45.415Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/couple-at-no-9-book-claire-douglas-9781405943406",
+	"url": "https://www.worldofbooks.com/en-gb/products/couple-at-no-9-book-claire-douglas-9781405943406"
+}

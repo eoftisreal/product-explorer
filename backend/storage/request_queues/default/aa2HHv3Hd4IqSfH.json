@@ -1,0 +1,9 @@
+{
+	"id": "aa2HHv3Hd4IqSfH",
+	"json": "{\"id\":\"aa2HHv3Hd4IqSfH\",\"url\":\"https://www.worldofbooks.com/en-gb/products/pretty-girls-book-karin-slaughter-9780099599432\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/pretty-girls-book-karin-slaughter-9780099599432\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/pretty-girls-book-karin-slaughter-9780099599432\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:51.502Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/pretty-girls-book-karin-slaughter-9780099599432",
+	"url": "https://www.worldofbooks.com/en-gb/products/pretty-girls-book-karin-slaughter-9780099599432"
+}

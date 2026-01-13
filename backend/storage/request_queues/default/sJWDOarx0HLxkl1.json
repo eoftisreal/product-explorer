@@ -1,0 +1,9 @@
+{
+	"id": "sJWDOarx0HLxkl1",
+	"json": "{\"id\":\"sJWDOarx0HLxkl1\",\"url\":\"https://www.worldofbooks.com/en-gb/products/court-of-silver-flames-book-sarah-j-maas-9781526635365\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/court-of-silver-flames-book-sarah-j-maas-9781526635365\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/court-of-silver-flames-book-sarah-j-maas-9781526635365\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:58.354Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/court-of-silver-flames-book-sarah-j-maas-9781526635365",
+	"url": "https://www.worldofbooks.com/en-gb/products/court-of-silver-flames-book-sarah-j-maas-9781526635365"
+}

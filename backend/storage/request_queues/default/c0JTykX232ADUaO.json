@@ -1,0 +1,9 @@
+{
+	"id": "c0JTykX232ADUaO",
+	"json": "{\"id\":\"c0JTykX232ADUaO\",\"url\":\"https://www.worldofbooks.com/en-gb/products/running-grave-book-robert-galbraith-9781408730973\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/running-grave-book-robert-galbraith-9781408730973\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/running-grave-book-robert-galbraith-9781408730973\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:51.258Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/running-grave-book-robert-galbraith-9781408730973",
+	"url": "https://www.worldofbooks.com/en-gb/products/running-grave-book-robert-galbraith-9781408730973"
+}

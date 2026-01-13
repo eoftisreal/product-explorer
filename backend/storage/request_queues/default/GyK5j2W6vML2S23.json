@@ -1,0 +1,9 @@
+{
+	"id": "GyK5j2W6vML2S23",
+	"json": "{\"id\":\"GyK5j2W6vML2S23\",\"url\":\"https://www.worldofbooks.com/en-gb/products/demon-slayer-kimetsu-no-yaiba-vol-1-book-koyoharu-gotouge-9781974700523\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/demon-slayer-kimetsu-no-yaiba-vol-1-book-koyoharu-gotouge-9781974700523\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/demon-slayer-kimetsu-no-yaiba-vol-1-book-koyoharu-gotouge-9781974700523\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:22.642Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/demon-slayer-kimetsu-no-yaiba-vol-1-book-koyoharu-gotouge-9781974700523",
+	"url": "https://www.worldofbooks.com/en-gb/products/demon-slayer-kimetsu-no-yaiba-vol-1-book-koyoharu-gotouge-9781974700523"
+}

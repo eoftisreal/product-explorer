@@ -1,0 +1,9 @@
+{
+	"id": "S457vjRfSphssAM",
+	"json": "{\"id\":\"S457vjRfSphssAM\",\"url\":\"https://www.worldofbooks.com/en-gb/products/guilty-by-definition-book-susie-dent-9781804183977\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/guilty-by-definition-book-susie-dent-9781804183977?sku=GOR014302651\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/guilty-by-definition-book-susie-dent-9781804183977\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:11.868Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/guilty-by-definition-book-susie-dent-9781804183977",
+	"url": "https://www.worldofbooks.com/en-gb/products/guilty-by-definition-book-susie-dent-9781804183977"
+}

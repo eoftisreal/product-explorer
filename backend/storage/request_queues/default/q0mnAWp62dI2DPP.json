@@ -1,0 +1,9 @@
+{
+	"id": "q0mnAWp62dI2DPP",
+	"json": "{\"id\":\"q0mnAWp62dI2DPP\",\"url\":\"https://www.worldofbooks.com/en-gb/products/widow-book-john-grisham-9781399703413\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/widow-book-john-grisham-9781399703413?sku=GOR014577978\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/widow-book-john-grisham-9781399703413\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:59.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/widow-book-john-grisham-9781399703413",
+	"url": "https://www.worldofbooks.com/en-gb/products/widow-book-john-grisham-9781399703413"
+}

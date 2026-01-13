@@ -1,0 +1,9 @@
+{
+	"id": "eqvjJ118NTdB7Oa",
+	"json": "{\"id\":\"eqvjJ118NTdB7Oa\",\"url\":\"https://www.worldofbooks.com/en-gb/products/family-remains-book-lisa-jewell-9781529158564\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/family-remains-book-lisa-jewell-9781529158564\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/family-remains-book-lisa-jewell-9781529158564\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:04.533Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/family-remains-book-lisa-jewell-9781529158564",
+	"url": "https://www.worldofbooks.com/en-gb/products/family-remains-book-lisa-jewell-9781529158564"
+}

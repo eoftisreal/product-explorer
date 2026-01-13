@@ -1,0 +1,9 @@
+{
+	"id": "1S0WM6xKVSqbEAL",
+	"json": "{\"id\":\"1S0WM6xKVSqbEAL\",\"url\":\"https://www.worldofbooks.com/en-gb/products/covenant-of-water-book-abraham-verghese-9781804710456\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/covenant-of-water-book-abraham-verghese-9781804710456?sku=GOR013565022\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/covenant-of-water-book-abraham-verghese-9781804710456\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:24.321Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/covenant-of-water-book-abraham-verghese-9781804710456",
+	"url": "https://www.worldofbooks.com/en-gb/products/covenant-of-water-book-abraham-verghese-9781804710456"
+}

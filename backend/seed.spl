@@ -1,0 +1,15 @@
+-- Use this to satisfy "Database schema and sample seed script" requirement [cite: 86]
+
+-- Insert Sample Products
+INSERT INTO product (title, author, price, image, "sourceUrl", "sourceId", category, rating, "lastScrapedAt")
+VALUES 
+('The Spy and the Traitor', 'Ben Macintyre', '£9.99', 'https://image-server.worldofbooks.com/images/9780241182636.jpg', 'https://www.worldofbooks.com/en-gb/products/the-spy-and-the-traitor-9780241182636', '9780241182636', 'Non-Fiction', 4.8, NOW()),
+('The Great Gatsby', 'F. Scott Fitzgerald', '£7.99', 'https://image-server.worldofbooks.com/images/9780141182636.jpg', 'https://www.worldofbooks.com/en-gb/products/the-great-gatsby-9780141182636', '9780141182636', 'Fiction', 4.5, NOW()),
+('Atomic Habits', 'James Clear', '£12.50', 'https://image-server.worldofbooks.com/images/9781847941831.jpg', 'https://www.worldofbooks.com/en-gb/products/atomic-habits-9781847941831', '9781847941831', 'Self-Help', 4.9, NOW());
+
+-- Insert Navigation Headings [cite: 47, 95]
+INSERT INTO navigation (title, slug, last_scraped_at)
+VALUES 
+('Fiction', '/en-gb/collections/fiction-books', NOW()),
+('Non-Fiction', '/en-gb/collections/non-fiction-books', NOW()),
+('Children''s Books', '/en-gb/collections/childrens-books', NOW());

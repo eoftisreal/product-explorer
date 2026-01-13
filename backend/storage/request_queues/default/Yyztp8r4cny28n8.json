@@ -1,0 +1,9 @@
+{
+	"id": "Yyztp8r4cny28n8",
+	"json": "{\"id\":\"Yyztp8r4cny28n8\",\"url\":\"https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581?sku=GOR010022584\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:38.417Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581",
+	"url": "https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581"
+}

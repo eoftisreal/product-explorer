@@ -1,0 +1,9 @@
+{
+	"id": "aQ3VWP8H8N799Cg",
+	"json": "{\"id\":\"aQ3VWP8H8N799Cg\",\"url\":\"https://www.worldofbooks.com/en-gb/products/cold-wind-from-moscow-book-rory-clements-9781804185094\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/cold-wind-from-moscow-book-rory-clements-9781804185094?sku=GOR014365707\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/cold-wind-from-moscow-book-rory-clements-9781804185094\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:10.525Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/cold-wind-from-moscow-book-rory-clements-9781804185094",
+	"url": "https://www.worldofbooks.com/en-gb/products/cold-wind-from-moscow-book-rory-clements-9781804185094"
+}

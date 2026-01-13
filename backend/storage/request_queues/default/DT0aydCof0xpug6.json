@@ -1,0 +1,9 @@
+{
+	"id": "DT0aydCof0xpug6",
+	"json": "{\"id\":\"DT0aydCof0xpug6\",\"url\":\"https://www.worldofbooks.com/en-gb/products/marble-hall-murders-book-anthony-horowitz-9781804943007\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/marble-hall-murders-book-anthony-horowitz-9781804943007?sku=GOR014530813\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/marble-hall-murders-book-anthony-horowitz-9781804943007\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:54.302Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/marble-hall-murders-book-anthony-horowitz-9781804943007",
+	"url": "https://www.worldofbooks.com/en-gb/products/marble-hall-murders-book-anthony-horowitz-9781804943007"
+}

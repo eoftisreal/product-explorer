@@ -1,0 +1,9 @@
+{
+	"id": "IiHcuZX5VvdLf7f",
+	"json": "{\"id\":\"IiHcuZX5VvdLf7f\",\"url\":\"https://www.worldofbooks.com/en-gb/products/by-your-side-book-ruth-jones-9781787633896\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/by-your-side-book-ruth-jones-9781787633896\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/by-your-side-book-ruth-jones-9781787633896\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:36.308Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/by-your-side-book-ruth-jones-9781787633896",
+	"url": "https://www.worldofbooks.com/en-gb/products/by-your-side-book-ruth-jones-9781787633896"
+}

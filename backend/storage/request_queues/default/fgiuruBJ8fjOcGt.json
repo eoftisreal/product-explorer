@@ -1,0 +1,9 @@
+{
+	"id": "fgiuruBJ8fjOcGt",
+	"json": "{\"id\":\"fgiuruBJ8fjOcGt\",\"url\":\"https://www.worldofbooks.com/en-gb/products/tell-no-one-book-harlan-coben-9781409117025\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/tell-no-one-book-harlan-coben-9781409117025\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/tell-no-one-book-harlan-coben-9781409117025\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:02.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/tell-no-one-book-harlan-coben-9781409117025",
+	"url": "https://www.worldofbooks.com/en-gb/products/tell-no-one-book-harlan-coben-9781409117025"
+}

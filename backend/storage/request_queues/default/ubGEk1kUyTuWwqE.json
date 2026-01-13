@@ -1,0 +1,9 @@
+{
+	"id": "ubGEk1kUyTuWwqE",
+	"json": "{\"id\":\"ubGEk1kUyTuWwqE\",\"url\":\"https://www.worldofbooks.com/en-gb/products/rag-princess-book-rosie-goodwin-9781804188354\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/rag-princess-book-rosie-goodwin-9781804188354?sku=GOR014698020\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/rag-princess-book-rosie-goodwin-9781804188354\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:48.530Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/rag-princess-book-rosie-goodwin-9781804188354",
+	"url": "https://www.worldofbooks.com/en-gb/products/rag-princess-book-rosie-goodwin-9781804188354"
+}

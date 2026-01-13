@@ -1,0 +1,9 @@
+{
+	"id": "M5kD4G2JmexVSm8",
+	"json": "{\"id\":\"M5kD4G2JmexVSm8\",\"url\":\"https://www.worldofbooks.com/en-gb/products/things-we-leave-unfinished-book-rebecca-yarros-9781804992326\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/things-we-leave-unfinished-book-rebecca-yarros-9781804992326\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/things-we-leave-unfinished-book-rebecca-yarros-9781804992326\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:55.797Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/things-we-leave-unfinished-book-rebecca-yarros-9781804992326",
+	"url": "https://www.worldofbooks.com/en-gb/products/things-we-leave-unfinished-book-rebecca-yarros-9781804992326"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "d84BrVEC2YYXlFE",
+	"json": "{\"id\":\"d84BrVEC2YYXlFE\",\"url\":\"https://www.worldofbooks.com/en-gb/products/hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-jonas-jonasson-9780349141800\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-jonas-jonasson-9780349141800?sku=GOR006848837\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-jonas-jonasson-9780349141800\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:15.693Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-jonas-jonasson-9780349141800",
+	"url": "https://www.worldofbooks.com/en-gb/products/hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-book-jonas-jonasson-9780349141800"
+}

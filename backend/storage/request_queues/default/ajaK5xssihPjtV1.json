@@ -1,0 +1,9 @@
+{
+	"id": "ajaK5xssihPjtV1",
+	"json": "{\"id\":\"ajaK5xssihPjtV1\",\"url\":\"https://www.worldofbooks.com/en-gb/products/rose-field-the-book-of-dust-volume-three-book-philip-pullman-9780241458693\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/rose-field-the-book-of-dust-volume-three-book-philip-pullman-9780241458693?sku=GOR014553144\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/rose-field-the-book-of-dust-volume-three-book-philip-pullman-9780241458693\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:08.997Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/rose-field-the-book-of-dust-volume-three-book-philip-pullman-9780241458693",
+	"url": "https://www.worldofbooks.com/en-gb/products/rose-field-the-book-of-dust-volume-three-book-philip-pullman-9780241458693"
+}

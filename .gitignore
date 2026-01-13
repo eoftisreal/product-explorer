@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+dist/
+.next/
+build/
+
+# Environment variables (NEVER COMMIT THESE)
+.env
+.env.local
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker volumes (if locally mapped)
+pgdata/
+
+# IDE settings
+.vscode/
+.idea/

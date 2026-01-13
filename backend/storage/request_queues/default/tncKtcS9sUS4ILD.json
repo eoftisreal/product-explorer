@@ -1,0 +1,9 @@
+{
+	"id": "tncKtcS9sUS4ILD",
+	"json": "{\"id\":\"tncKtcS9sUS4ILD\",\"url\":\"https://www.worldofbooks.com/en-gb/products/never-let-me-go-book-kazuo-ishiguro-9780571258093\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/never-let-me-go-book-kazuo-ishiguro-9780571258093?sku=GOR002209844\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/never-let-me-go-book-kazuo-ishiguro-9780571258093\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:43.070Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/never-let-me-go-book-kazuo-ishiguro-9780571258093",
+	"url": "https://www.worldofbooks.com/en-gb/products/never-let-me-go-book-kazuo-ishiguro-9780571258093"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "b5hoKmP2s87s5UI",
+	"json": "{\"id\":\"b5hoKmP2s87s5UI\",\"url\":\"https://www.worldofbooks.com/en-gb/products/gentleman-in-moscow-book-amor-towles-9780099558781\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/gentleman-in-moscow-book-amor-towles-9780099558781\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/gentleman-in-moscow-book-amor-towles-9780099558781\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:11.399Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/gentleman-in-moscow-book-amor-towles-9780099558781",
+	"url": "https://www.worldofbooks.com/en-gb/products/gentleman-in-moscow-book-amor-towles-9780099558781"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ekVW9GW0IzqzN8S",
+	"json": "{\"id\":\"ekVW9GW0IzqzN8S\",\"url\":\"https://www.worldofbooks.com/en-gb/products/babel-book-rf-kuang-9780008501853\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/babel-book-rf-kuang-9780008501853\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/babel-book-rf-kuang-9780008501853\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:19.087Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/babel-book-rf-kuang-9780008501853",
+	"url": "https://www.worldofbooks.com/en-gb/products/babel-book-rf-kuang-9780008501853"
+}

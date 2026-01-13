@@ -1,0 +1,9 @@
+{
+	"id": "7AS3DqHmDKr2QzJ",
+	"json": "{\"id\":\"7AS3DqHmDKr2QzJ\",\"url\":\"https://www.worldofbooks.com/en-gb/products/christmas-tree-farm-book-laurie-gilmore-9780008610746\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/christmas-tree-farm-book-laurie-gilmore-9780008610746\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/christmas-tree-farm-book-laurie-gilmore-9780008610746\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:30.152Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/christmas-tree-farm-book-laurie-gilmore-9780008610746",
+	"url": "https://www.worldofbooks.com/en-gb/products/christmas-tree-farm-book-laurie-gilmore-9780008610746"
+}

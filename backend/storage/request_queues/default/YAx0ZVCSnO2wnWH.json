@@ -1,0 +1,9 @@
+{
+	"id": "YAx0ZVCSnO2wnWH",
+	"json": "{\"id\":\"YAx0ZVCSnO2wnWH\",\"url\":\"https://www.worldofbooks.com/en-gb/products/coworker-book-freida-mcfadden-9781464221347\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/coworker-book-freida-mcfadden-9781464221347\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/coworker-book-freida-mcfadden-9781464221347\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:55.631Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/coworker-book-freida-mcfadden-9781464221347",
+	"url": "https://www.worldofbooks.com/en-gb/products/coworker-book-freida-mcfadden-9781464221347"
+}

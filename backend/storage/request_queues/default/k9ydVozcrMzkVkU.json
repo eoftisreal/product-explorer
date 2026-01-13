@@ -1,0 +1,9 @@
+{
+	"id": "k9ydVozcrMzkVkU",
+	"json": "{\"id\":\"k9ydVozcrMzkVkU\",\"url\":\"https://www.worldofbooks.com/en-gb/products/james-book-percival-everett-9781035031269\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/james-book-percival-everett-9781035031269\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/james-book-percival-everett-9781035031269\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:28.966Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/james-book-percival-everett-9781035031269",
+	"url": "https://www.worldofbooks.com/en-gb/products/james-book-percival-everett-9781035031269"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "QlkmEY6BRcx5yCp",
+	"json": "{\"id\":\"QlkmEY6BRcx5yCp\",\"url\":\"https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512?sku=GOR013067345\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:34.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512",
+	"url": "https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512"
+}

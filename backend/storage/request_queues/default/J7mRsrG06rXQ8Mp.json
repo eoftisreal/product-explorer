@@ -1,0 +1,9 @@
+{
+	"id": "J7mRsrG06rXQ8Mp",
+	"json": "{\"id\":\"J7mRsrG06rXQ8Mp\",\"url\":\"https://www.worldofbooks.com/en-gb/products/strawberry-patch-pancake-house-book-laurie-gilmore-9780008713348\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/strawberry-patch-pancake-house-book-laurie-gilmore-9780008713348?sku=GOR014234328\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/strawberry-patch-pancake-house-book-laurie-gilmore-9780008713348\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:49.269Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/strawberry-patch-pancake-house-book-laurie-gilmore-9780008713348",
+	"url": "https://www.worldofbooks.com/en-gb/products/strawberry-patch-pancake-house-book-laurie-gilmore-9780008713348"
+}

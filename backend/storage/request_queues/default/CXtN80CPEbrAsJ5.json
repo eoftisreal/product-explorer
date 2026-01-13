@@ -1,0 +1,9 @@
+{
+	"id": "CXtN80CPEbrAsJ5",
+	"json": "{\"id\":\"CXtN80CPEbrAsJ5\",\"url\":\"https://www.worldofbooks.com/en-gb/products/nobodys-fool-book-harlan-coben-9781804943434\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/nobodys-fool-book-harlan-coben-9781804943434\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/nobodys-fool-book-harlan-coben-9781804943434\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:15.720Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/nobodys-fool-book-harlan-coben-9781804943434",
+	"url": "https://www.worldofbooks.com/en-gb/products/nobodys-fool-book-harlan-coben-9781804943434"
+}

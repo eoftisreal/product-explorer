@@ -1,0 +1,9 @@
+{
+	"id": "Owzx0qJQBWhA6kK",
+	"json": "{\"id\":\"Owzx0qJQBWhA6kK\",\"url\":\"https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618?sku=GOR013806937\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:29.639Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618",
+	"url": "https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vJe9qu97imYMe2y",
+	"json": "{\"id\":\"vJe9qu97imYMe2y\",\"url\":\"https://www.worldofbooks.com/en-gb/products/house-of-flame-and-shadow-book-sarah-j-maas-9781526650344\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/house-of-flame-and-shadow-book-sarah-j-maas-9781526650344?sku=GOR014382629\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/house-of-flame-and-shadow-book-sarah-j-maas-9781526650344\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:28.061Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/house-of-flame-and-shadow-book-sarah-j-maas-9781526650344",
+	"url": "https://www.worldofbooks.com/en-gb/products/house-of-flame-and-shadow-book-sarah-j-maas-9781526650344"
+}

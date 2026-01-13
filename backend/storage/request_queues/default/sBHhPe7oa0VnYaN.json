@@ -1,0 +1,9 @@
+{
+	"id": "sBHhPe7oa0VnYaN",
+	"json": "{\"id\":\"sBHhPe7oa0VnYaN\",\"url\":\"https://www.worldofbooks.com/en-gb/products/king-of-envy-book-ana-huang-9780349436395\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/king-of-envy-book-ana-huang-9780349436395\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/king-of-envy-book-ana-huang-9780349436395\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:15:33.436Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/king-of-envy-book-ana-huang-9780349436395",
+	"url": "https://www.worldofbooks.com/en-gb/products/king-of-envy-book-ana-huang-9780349436395"
+}

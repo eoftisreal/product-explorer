@@ -1,0 +1,9 @@
+{
+	"id": "xul8S6WV1ogeRvx",
+	"json": "{\"id\":\"xul8S6WV1ogeRvx\",\"url\":\"https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230?sku=NGR9781398521230\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:31.671Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230",
+	"url": "https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230"
+}

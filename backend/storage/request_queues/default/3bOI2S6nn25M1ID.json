@@ -1,0 +1,9 @@
+{
+	"id": "3bOI2S6nn25M1ID",
+	"json": "{\"id\":\"3bOI2S6nn25M1ID\",\"url\":\"https://www.worldofbooks.com/en-gb/products/god-of-the-woods-book-liz-moore-9780008663834\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/god-of-the-woods-book-liz-moore-9780008663834\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/god-of-the-woods-book-liz-moore-9780008663834\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:13:56.131Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/god-of-the-woods-book-liz-moore-9780008663834",
+	"url": "https://www.worldofbooks.com/en-gb/products/god-of-the-woods-book-liz-moore-9780008663834"
+}

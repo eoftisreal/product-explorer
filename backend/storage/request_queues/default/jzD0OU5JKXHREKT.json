@@ -1,0 +1,9 @@
+{
+	"id": "jzD0OU5JKXHREKT",
+	"json": "{\"id\":\"jzD0OU5JKXHREKT\",\"url\":\"https://www.worldofbooks.com/en-gb/products/thousand-splendid-suns-book-khaled-hosseini-9781526604750\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/thousand-splendid-suns-book-khaled-hosseini-9781526604750?sku=GOR009558571\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/thousand-splendid-suns-book-khaled-hosseini-9781526604750\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:18.131Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/thousand-splendid-suns-book-khaled-hosseini-9781526604750",
+	"url": "https://www.worldofbooks.com/en-gb/products/thousand-splendid-suns-book-khaled-hosseini-9781526604750"
+}

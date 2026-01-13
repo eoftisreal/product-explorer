@@ -1,0 +1,9 @@
+{
+	"id": "DvDe8eG7PtOH27D",
+	"json": "{\"id\":\"DvDe8eG7PtOH27D\",\"url\":\"https://www.worldofbooks.com/en-gb/products/seven-sisters-book-lucinda-riley-9781529003451\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/seven-sisters-book-lucinda-riley-9781529003451?sku=GOR009605074\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/seven-sisters-book-lucinda-riley-9781529003451\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:45.398Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/seven-sisters-book-lucinda-riley-9781529003451",
+	"url": "https://www.worldofbooks.com/en-gb/products/seven-sisters-book-lucinda-riley-9781529003451"
+}

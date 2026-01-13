@@ -1,0 +1,9 @@
+{
+	"id": "FUTgDkgKKSnqakO",
+	"json": "{\"id\":\"FUTgDkgKKSnqakO\",\"url\":\"https://www.worldofbooks.com/en-gb/products/here-one-moment-book-liane-moriarty-9781405942287\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/here-one-moment-book-liane-moriarty-9781405942287\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/here-one-moment-book-liane-moriarty-9781405942287\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:12.564Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/here-one-moment-book-liane-moriarty-9781405942287",
+	"url": "https://www.worldofbooks.com/en-gb/products/here-one-moment-book-liane-moriarty-9781405942287"
+}

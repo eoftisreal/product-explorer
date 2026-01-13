@@ -1,0 +1,9 @@
+{
+	"id": "9acTbmPArl3ViQu",
+	"json": "{\"id\":\"9acTbmPArl3ViQu\",\"url\":\"https://www.worldofbooks.com/en-gb/products/fourth-wing-book-rebecca-yarros-9780349437019\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/fourth-wing-book-rebecca-yarros-9780349437019\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/fourth-wing-book-rebecca-yarros-9780349437019\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:12:50.895Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/fourth-wing-book-rebecca-yarros-9780349437019",
+	"url": "https://www.worldofbooks.com/en-gb/products/fourth-wing-book-rebecca-yarros-9780349437019"
+}

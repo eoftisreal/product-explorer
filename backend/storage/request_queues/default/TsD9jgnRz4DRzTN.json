@@ -1,0 +1,9 @@
+{
+	"id": "TsD9jgnRz4DRzTN",
+	"json": "{\"id\":\"TsD9jgnRz4DRzTN\",\"url\":\"https://www.worldofbooks.com/en-gb/products/how-to-age-disgracefully-book-clare-pooley-9781804992319\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/how-to-age-disgracefully-book-clare-pooley-9781804992319?sku=GOR014305217\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/how-to-age-disgracefully-book-clare-pooley-9781804992319\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2026-01-13T00:14:24.343Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/how-to-age-disgracefully-book-clare-pooley-9781804992319",
+	"url": "https://www.worldofbooks.com/en-gb/products/how-to-age-disgracefully-book-clare-pooley-9781804992319"
+}
