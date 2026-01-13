@@ -52,7 +52,7 @@ The easiest way to run the full stack (Frontend + Backend + Database) is via Doc
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/product-explorer.git](https://github.com/YOUR_USERNAME/product-explorer.git)
+    git clone [https://github.com/eoftisreal/product-explorer.git](https://github.com/eoftisrea/product-explorer.git)
     cd product-explorer
     ```
 
