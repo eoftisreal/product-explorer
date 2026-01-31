@@ -1,20 +1,33 @@
 import { Controller, Get, Post, Body, Param, Query } from '@nestjs/common';
-import { ApiTags, ApiOperation, ApiResponse, ApiQuery, ApiParam } from '@nestjs/swagger';
+import {
+  ApiTags,
+  ApiOperation,
+  ApiResponse,
+  ApiQuery,
+  ApiParam,
+} from '@nestjs/swagger';
 import { ProductsService } from './products.service';
 import { Product } from './entities/product.entity';
 
-@ApiTags('products') 
+@ApiTags('products')
 @Controller('products')
 export class ProductsController {
   constructor(private readonly productsService: ProductsService) {}
 
+  /**
+   * Triggers an on-demand scrape job for a specific category.
+   * This is an asynchronous operation that returns immediately.
+   */
   @Post('scrape')
-  @ApiOperation({ summary: 'Trigger an on-demand scrape of a World of Books category' })
+  @ApiOperation({
+    summary: 'Trigger an on-demand scrape of a World of Books category',
+  })
   @ApiResponse({ status: 201, description: 'Scrape job started successfully.' })
   scrape(@Body() body: { url?: string; categoryName?: string }) {
     return this.productsService.scrapeCategory(
-      body.url || 'https://www.worldofbooks.com/en-gb/collections/fiction-books', 
-      body.categoryName || 'Fiction'
+      body.url ||
+        'https://www.worldofbooks.com/en-gb/collections/fiction-books',
+      body.categoryName || 'Fiction',
     );
   }
 
@@ -33,10 +46,15 @@ export class ProductsController {
     return this.productsService.findAll(+page, +limit, search, category);
   }
 
-  // REQUIRED: GET HISTORY 
+  /**
+   * Retrieves user browsing history based on a session ID.
+   */
   @Get('history/:sessionId')
   @ApiOperation({ summary: 'Retrieve user browsing history' })
-  @ApiParam({ name: 'sessionId', description: 'Unique session ID from localStorage' })
+  @ApiParam({
+    name: 'sessionId',
+    description: 'Unique session ID from localStorage',
+  })
   getHistory(@Param('sessionId') sessionId: string) {
     return this.productsService.getHistory(sessionId);
   }
@@ -48,20 +66,22 @@ export class ProductsController {
     return this.productsService.findOne(+id);
   }
 
-  // REQUIRED: RELATED PRODUCTS [cite: 56]
+  /**
+   * Fetches related products based on the category of the given product ID.
+   * Useful for "You might also like" sections.
+   */
   @Get(':id/related')
   @ApiOperation({ summary: 'Get related products based on category' })
   findRelated(@Param('id') id: string) {
     return this.productsService.findRelated(+id);
   }
 
-  // REQUIRED: LOG VIEW HISTORY 
+  /**
+   * Logs a view event for a product to the user's session history.
+   */
   @Post(':id/view')
   @ApiOperation({ summary: 'Log a product view to history' })
-  logView(
-    @Param('id') id: string,
-    @Body('sessionId') sessionId: string
-  ) {
+  logView(@Param('id') id: string, @Body('sessionId') sessionId: string) {
     return this.productsService.logView(+id, sessionId);
   }
 }

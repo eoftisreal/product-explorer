@@ -19,6 +19,6 @@ export class CategoriesService {
       .getRawMany();
 
     // 2. Convert result to simple array: ["Fiction", "Non-Fiction"]
-    return result.map(r => r.category);
+    return result.map((r) => r.category);
   }
 }

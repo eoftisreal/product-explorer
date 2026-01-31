@@ -16,19 +16,19 @@ import { CategoriesModule } from './categories/categories.module';
     // DATABASE CONNECTION
     TypeOrmModule.forRoot({
       type: 'postgres',
-      
+
       // DYNAMIC HOST: Use 'postgres' if running in Docker, otherwise 'localhost'
       host: process.env.DB_HOST || 'localhost',
-      
+
       port: 5432,
-      
+
       // CREDENTIALS: Look for Env Vars first, fallback to your local defaults
       username: process.env.DB_USERNAME || 'postgres',
       password: process.env.DB_PASSWORD || 'mario',
       database: process.env.DB_NAME || 'product_explorer',
-      
-      autoLoadEntities: true, 
-      synchronize: true,          
+
+      autoLoadEntities: true,
+      synchronize: true,
     }),
 
     ProductsModule,

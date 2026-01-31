@@ -6,7 +6,7 @@ import { Product } from '../products/entities/product.entity'; // Import the Ent
 
 @Module({
   // This line gives the service access to the Product Table
-  imports: [TypeOrmModule.forFeature([Product])], 
+  imports: [TypeOrmModule.forFeature([Product])],
   controllers: [CategoriesController],
   providers: [CategoriesService],
 })

@@ -8,10 +8,12 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   // Requirement: Sanitize inputs and validate DTOs [cite: 40, 76]
-  app.useGlobalPipes(new ValidationPipe({
-    whitelist: true,
-    transform: true,
-  }));
+  app.useGlobalPipes(
+    new ValidationPipe({
+      whitelist: true,
+      transform: true,
+    }),
+  );
 
   // Requirement: Enable CORS properly [cite: 76]
   app.enableCors();
@@ -23,16 +25,16 @@ async function bootstrap() {
     .setVersion('1.0')
     .addTag('products')
     .build();
-  
+
   const document = SwaggerModule.createDocument(app, config);
-  
+
   // Set up the interactive documentation endpoint [cite: 87]
-  SwaggerModule.setup('api', app, document); 
+  SwaggerModule.setup('api', app, document);
 
   // Requirement: Use secure environment variables [cite: 76, 124]
   const port = process.env.PORT || 3000;
   await app.listen(port);
-  
+
   console.log(`Application is running on: http://localhost:${port}`);
   console.log(`Swagger Docs available at: http://localhost:${port}/api`);
 }
