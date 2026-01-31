@@ -2,17 +2,34 @@
 import { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
+
+// Define Types
+interface Product {
+  id: number;
+  title: string;
+  price: string;
+  image: string;
+  category: string;
+  author?: string;
+  description?: string;
+  sourceUrl: string;
+  sourceId: string;
+  lastScrapedAt: string;
+}
+
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:3000";
 
 export default function ProductDetail() {
   const { id } = useParams();
-  const [product, setProduct] = useState<any>(null);
-  const [related, setRelated] = useState<any[]>([]); // [1] Add State for Related Books
+  const [product, setProduct] = useState<Product | null>(null);
+  const [related, setRelated] = useState<Product[]>([]);
 
   useEffect(() => {
     if (!id) return;
 
     // 1. Fetch Main Product
-    fetch(`http://localhost:3000/products/${id}`)
+    fetch(`${API_BASE_URL}/products/${id}`)
       .then(res => res.json())
       .then(data => {
         setProduct(data);
@@ -24,15 +41,16 @@ export default function ProductDetail() {
           localStorage.setItem("session_id", sessionId);
         }
         
-        fetch(`http://localhost:3000/products/${id}/view`, {
+        fetch(`${API_BASE_URL}/products/${id}/view`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ sessionId })
-        });
-      });
+        }).catch(console.error);
+      })
+      .catch(console.error);
 
-    // 2. Fetch Related Products (The Missing Piece)
-    fetch(`http://localhost:3000/products/${id}/related`)
+    // 2. Fetch Related Products
+    fetch(`${API_BASE_URL}/products/${id}/related`)
       .then(res => res.json())
       .then(data => setRelated(data))
       .catch(err => console.error("Failed to load related books", err));
@@ -46,16 +64,18 @@ export default function ProductDetail() {
   );
 
   return (
-    <div className="max-w-6xl mx-auto p-8 bg-white min-h-screen">
+    <div className="max-w-6xl mx-auto p-8 bg-white min-h-screen text-black">
       <Link href="/" className="inline-block mb-8 text-[10px] font-black uppercase tracking-widest text-gray-400 hover:text-blue-600 transition-colors">← Back to Explorer</Link>
       
       {/* Main Product Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-start mb-24">
-        <div className="bg-gray-50 rounded-[48px] p-12 flex items-center justify-center aspect-[4/5] overflow-hidden shadow-inner border border-gray-100">
-          <img 
+        <div className="bg-gray-50 rounded-[48px] p-12 flex items-center justify-center aspect-[4/5] overflow-hidden shadow-inner border border-gray-100 relative">
+          <Image
             src={product.image} 
-            className="w-full h-full object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" 
-            alt={product.title} 
+            className="object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500 p-8"
+            alt={product.title}
+            fill
+            unoptimized
           />
         </div>
 
@@ -96,7 +116,7 @@ export default function ProductDetail() {
         </div>
       </div>
 
-      {/* [3] NEW: Related Books Section */}
+      {/* Related Books Section */}
       {related.length > 0 && (
         <div className="border-t border-gray-100 pt-16">
           <h2 className="text-2xl font-black text-gray-900 mb-10 uppercase tracking-tighter">
@@ -105,11 +125,13 @@ export default function ProductDetail() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {related.map((item) => (
               <Link key={item.id} href={`/products/${item.id}`} className="group">
-                <div className="bg-gray-50 rounded-3xl p-6 mb-4 aspect-[2/3] flex items-center justify-center overflow-hidden shadow-sm group-hover:shadow-xl transition-all duration-300">
-                  <img 
+                <div className="bg-gray-50 rounded-3xl p-6 mb-4 aspect-[2/3] flex items-center justify-center overflow-hidden shadow-sm group-hover:shadow-xl transition-all duration-300 relative">
+                  <Image
                     src={item.image} 
                     alt={item.title}
-                    className="w-full h-full object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-300"
+                    className="object-contain drop-shadow-md group-hover:scale-110 transition-transform duration-300 p-4"
+                    fill
+                    unoptimized
                   />
                 </div>
                 <h3 className="font-bold text-gray-900 text-sm leading-tight mb-1 group-hover:text-blue-600 transition-colors">

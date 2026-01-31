@@ -7,7 +7,7 @@ import { Category } from '../categories/entities/category.entity';
 
 @Module({
   // FIX: This line gives the Service access to both tables
-  imports: [TypeOrmModule.forFeature([Navigation, Category])], 
+  imports: [TypeOrmModule.forFeature([Navigation, Category])],
   controllers: [NavigationController],
   providers: [NavigationService],
 })
