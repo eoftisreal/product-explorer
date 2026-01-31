@@ -33,7 +33,22 @@ services:
     networks:
       - app-network
 
-  # 3. pgAdmin (Web-based Database Management)
+  # 3. Frontend (Next.js)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: product_frontend
+    depends_on:
+      - backend
+    ports:
+      - "3001:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:3000
+    networks:
+      - app-network
+
+  # 4. pgAdmin (Web-based Database Management)
   pgadmin:
     image: dpage/pgadmin4
     container_name: product_pgadmin
