@@ -10,13 +10,13 @@ export class CategoriesService {
     private productRepository: Repository<Product>,
   ) {}
 
-  async findAll() {
+  async findAll(): Promise<string[]> {
     // 1. Ask Database for all unique categories
     const result = await this.productRepository
       .createQueryBuilder('product')
       .select('DISTINCT product.category', 'category')
       .where('product.category IS NOT NULL')
-      .getRawMany();
+      .getRawMany<{ category: string }>();
 
     // 2. Convert result to simple array: ["Fiction", "Non-Fiction"]
     return result.map((r) => r.category);

@@ -5,6 +5,17 @@ import { PlaywrightCrawler } from 'crawlee';
 import { Navigation } from './entities/navigation.entity';
 import { Category } from '../categories/entities/category.entity';
 
+interface SubCategory {
+  title: string;
+  slug: string;
+}
+
+interface MenuData {
+  title: string;
+  slug: string;
+  categories: SubCategory[];
+}
+
 @Injectable()
 export class NavigationService {
   private readonly logger = new Logger(NavigationService.name);
@@ -32,22 +43,26 @@ export class NavigationService {
             .catch(() => null);
 
           // Extract Headings and their Sub-Categories
-          const menuData = await page.evaluate(() => {
-            const results: any[] = [];
+          const menuData = await page.evaluate((): MenuData[] => {
+            const results: MenuData[] = [];
             document.querySelectorAll('.site-nav__item').forEach((navItem) => {
               const titleEl = navItem.querySelector('.site-nav__link');
               const title = titleEl?.textContent?.trim();
               const slug = titleEl?.getAttribute('href');
 
               if (title && slug) {
-                const subCats: any[] = [];
+                const subCats: SubCategory[] = [];
                 navItem
                   .querySelectorAll('.site-nav__dropdown-link')
                   .forEach((sub) => {
-                    subCats.push({
-                      title: sub.textContent?.trim(),
-                      slug: sub.getAttribute('href'),
-                    });
+                    const subTitle = sub.textContent?.trim();
+                    const subSlug = sub.getAttribute('href');
+                    if (subTitle && subSlug) {
+                      subCats.push({
+                        title: subTitle,
+                        slug: subSlug,
+                      });
+                    }
                   });
                 results.push({ title, slug, categories: subCats });
               }
@@ -91,9 +106,10 @@ export class NavigationService {
 
       await crawler.run(['https://www.worldofbooks.com/en-gb']);
       return { message: 'Navigation & Categories scraped successfully!' };
-    } catch (error) {
-      this.logger.error(error);
-      return { error: error.message };
+    } catch (error: unknown) {
+      const err = error instanceof Error ? error : new Error(String(error));
+      this.logger.error(err);
+      return { error: err.message };
     }
   }
 
